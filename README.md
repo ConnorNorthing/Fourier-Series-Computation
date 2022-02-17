@@ -12,3 +12,5 @@ As personal development, this project exposed me to the Jupyter Notebook IDE. Fr
 ## Future Work That Could've Been Added
 Introducing interactive waveforms into the outputs would have greatly improved the userability of the code with data-point tracking as well.
 
+## Accreditation
+This project was a group project whereby the code generated was consolidated with Ian De Villiers and Nicole Wreyford
